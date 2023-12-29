@@ -6,5 +6,6 @@ spring:
     suffix: .html
     encoding: UTF-8
     mode: HTML
-
+  messages:
+    basename: messages
 
